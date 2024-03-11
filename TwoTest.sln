@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoTest", "TwoTest.csproj", "{2566AE9C-31A3-439E-BE56-19C28B7C8671}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CWE90_LDAP_Injection", "CWE90_LDAP_Injection\CWE90_LDAP_Injection.csproj", "{B2A9A960-58F6-7C23-D39C-585FD2A3AC2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2566AE9C-31A3-439E-BE56-19C28B7C8671}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2566AE9C-31A3-439E-BE56-19C28B7C8671}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2566AE9C-31A3-439E-BE56-19C28B7C8671}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2566AE9C-31A3-439E-BE56-19C28B7C8671}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2A9A960-58F6-7C23-D39C-585FD2A3AC2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2A9A960-58F6-7C23-D39C-585FD2A3AC2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2A9A960-58F6-7C23-D39C-585FD2A3AC2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2A9A960-58F6-7C23-D39C-585FD2A3AC2E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB8E9120-71AF-43CA-BB01-AE0CD9D8189A}
+	EndGlobalSection
+EndGlobal
